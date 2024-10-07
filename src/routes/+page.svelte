@@ -374,7 +374,7 @@
 	<div class="flex flex-col items-center justify-center">
 		<p class="leading-3">Easy and transparent process</p>
 		<h2 class="mb-10 font-futura text-4xl uppercase md:mb-20 md:text-[80px]/[1.325]">
-			HOW IT WORKS
+			How it works
 		</h2>
 		<div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
 			<div class="flex flex-col items-start justify-start rounded-xl bg-[#EBEDE8] p-10">
