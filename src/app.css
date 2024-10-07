@@ -1,3 +1,54 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@font-face {
+	font-display: swap;
+	font-family: 'Futura';
+	font-weight: 500;
+	src:
+		url('/fonts/futura-medium.woff2') format('woff2'),
+		url('/fonts/futura-medium.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Futura';
+	font-weight: 800;
+	src:
+		url('/fonts/futura-bold.woff2') format('woff2'),
+		url('/fonts/futura-bold.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Fustat';
+	font-weight: 400;
+	src:
+		url('/fonts/Fustat-Regular.woff2') format('woff2'),
+		url('/fonts/Fustat-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Fustat';
+	font-weight: 500;
+	src:
+		url('/fonts/Fustat-Medium.woff2') format('woff2'),
+		url('/fonts/Fustat-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Fustat';
+	font-weight: 700;
+	src:
+		url('/fonts/Fustat-SemiBold.woff2') format('woff2'),
+		url('/fonts/Fustat-SemiBold.woff') format('woff');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-ashgray font-fustat text-base/snug font-medium;
+	}
+}
