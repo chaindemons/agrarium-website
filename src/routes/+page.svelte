@@ -8,7 +8,7 @@
 		</p>
 	</div>
 </div>
-<div class="container mb-[80px] md:mb-[150px]">
+<div class="container mb-[80px] md:mb-[150px]" id="explore">
 	<div class="flex flex-col items-center justify-center">
 		<p class="leading-3">What is it?</p>
 		<h2 class="mb-10 font-futura text-4xl uppercase md:mb-20 md:text-[80px]/[1.325]">Agrarium</h2>
@@ -19,7 +19,7 @@
 		</p>
 	</div>
 </div>
-<div class="container mb-[80px] md:mb-[150px]">
+<div class="container mb-[80px] md:mb-[150px]" id="features">
 	<div class="flex flex-col items-center justify-center">
 		<p class="leading-3">Key ingredients</p>
 		<h2 class="mb-10 font-futura text-4xl uppercase md:mb-20 md:text-[80px]/[1.325]">Features</h2>
@@ -370,7 +370,7 @@
 		</div>
 	</div>
 </div>
-<div class="container mb-[80px] md:mb-[150px]">
+<div class="container mb-[80px] md:mb-[150px]" id="how-it-works">
 	<div class="flex flex-col items-center justify-center">
 		<p class="leading-3">Easy and transparent process</p>
 		<h2 class="mb-10 font-futura text-4xl uppercase md:mb-20 md:text-[80px]/[1.325]">
@@ -655,7 +655,7 @@
 		</div>
 	</div>
 </div>
-<div class="container mb-[80px] md:mb-[150px]">
+<div class="container mb-[80px] md:mb-[150px]" id="faq">
 	<div class="flex flex-col items-center justify-center">
 		<p class="leading-3">Have any questions?</p>
 		<h2 class="mb-10 font-futura text-4xl uppercase md:mb-20 md:text-[80px]/[1.325]">FAQ</h2>

@@ -48,6 +48,9 @@
 @tailwind utilities;
 
 @layer base {
+	html {
+		@apply scroll-smooth;
+	}
 	body {
 		@apply bg-ashgray font-fustat text-base/snug font-medium;
 	}
