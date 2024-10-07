@@ -5,10 +5,10 @@
 		>
 			<img src="/images/agrarium-logo-full.svg" alt="Agrarium" width="206" height="33" />
 			<nav class="flex gap-4 font-futura">
-				<a href="/" class="underline-offset-4 hover:underline">Explore</a>
-				<a href="/" class="underline-offset-4 hover:underline">Features</a>
-				<a href="/" class="underline-offset-4 hover:underline">How it works</a>
-				<a href="/" class="underline-offset-4 hover:underline">FAQ</a>
+				<a href="#explore" class="underline-offset-4 hover:underline">Explore</a>
+				<a href="#features" class="underline-offset-4 hover:underline">Features</a>
+				<a href="#how-it-works" class="underline-offset-4 hover:underline">How it works</a>
+				<a href="#faq" class="underline-offset-4 hover:underline">FAQ</a>
 			</nav>
 		</div>
 	</div>
