@@ -951,8 +951,10 @@
 		</div>
 	</div>
 </div>
-<div class="mb-[50px] flex bg-[#364F52] py-16 md:py-40">
-	<div class="container">
+<div class="mb-[50px] flex bg-[#364F52]">
+	<div
+		class="container bg-[url('/images/logo-as-bg.png')] bg-[length:auto_80%] bg-right-bottom bg-no-repeat py-16 md:py-40"
+	>
 		<div class="flex flex-col items-start justify-center text-white">
 			<h3 class="mb-6 text-3xl font-bold md:text-[40px]">Transform Your Portfolio with Agrarium</h3>
 			<p class="max-w-[880px] text-xl md:text-2xl">
