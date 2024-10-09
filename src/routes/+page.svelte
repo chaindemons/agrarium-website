@@ -663,7 +663,7 @@
 			<div class="flex flex-col gap-4">
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>What is asset tokenization and RWA?</span>
 						<svg
@@ -692,7 +692,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>What is the minimum investment amount? </span>
 						<svg
@@ -720,7 +720,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>How do I earn returns on my investment?</span>
 						<svg
@@ -749,7 +749,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>Is my investment liquid?</span>
 						<svg
@@ -778,7 +778,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>How to identify if a platform performs the tokenization process? </span>
 						<svg
@@ -832,7 +832,7 @@
 			<div class="flex flex-col gap-4">
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>Why is tokenization important?</span>
 						<svg
@@ -862,7 +862,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>What returns can I expect? </span>
 						<svg
@@ -892,7 +892,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>How is the land managed?</span>
 						<svg
@@ -921,7 +921,7 @@
 				</details>
 				<details class="group rounded-xl bg-[#F5F5F5] p-8 hover:bg-white">
 					<summary
-						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold"
+						class="flex cursor-pointer list-none items-center justify-between gap-[20px] font-bold [&::-webkit-details-marker]:hidden"
 					>
 						<span>How is my investment secured? </span>
 						<svg
