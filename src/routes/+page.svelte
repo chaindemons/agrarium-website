@@ -959,10 +959,15 @@
 	>
 		<div class="flex flex-col items-start justify-center text-white">
 			<h3 class="mb-6 text-3xl font-bold md:text-[40px]">Transform Your Portfolio with Agrarium</h3>
-			<p class="max-w-[880px] text-xl md:text-2xl">
+			<p class="mb-6 max-w-[880px] text-xl md:text-2xl">
 				Join the agricultural revolution and cultivate wealth through tokenized farmland. Be part of
 				the future of farming and finance with Agrarium.
 			</p>
+			<a
+				href="https://x.com/agrariumio"
+				class="whitespace-nowrap rounded-xl border border-white px-5 py-2 font-futura text-white hover:bg-white hover:text-black"
+				target="_blank">Follow us</a
+			>
 		</div>
 	</div>
 </div>
