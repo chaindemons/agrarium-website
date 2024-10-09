@@ -2,7 +2,9 @@
 	class="mb-[50px] flex h-[300px] bg-[url('/images/hero-bg.webp')] bg-cover bg-center md:mb-[150px] md:h-[500px]"
 >
 	<div class="container flex">
-		<p class="flex max-w-5xl items-end justify-start py-24 text-2xl text-white md:text-4xl">
+		<p
+			class="flex max-w-5xl items-end justify-start py-10 text-2xl text-white md:py-24 md:text-4xl"
+		>
 			Imagine investing in one of the world's most stable assets— prime agricultural land — as
 			easily as buying crypto.
 		</p>
